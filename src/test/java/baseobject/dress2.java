@@ -15,7 +15,7 @@ public dress2() {
 }
 
 @Test
-  public void dressespaly() {
+  public void dressespalyghf() {
 	  dress.getdress().click();
 	  Assert.assertTrue(ms.getTitlte().contains("Dresses"));
   
