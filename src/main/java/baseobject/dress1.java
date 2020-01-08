@@ -8,7 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class dress1 extends basepage {
+public class dress1 extends basepage123 {
 	
 
 	@FindBy(xpath="(//a[@title='Dresses'])[2]")
